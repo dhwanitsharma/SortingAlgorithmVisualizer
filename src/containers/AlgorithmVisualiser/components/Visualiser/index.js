@@ -11,7 +11,7 @@ export default class AlgorithmVisualiser extends Component {
     p5.createCanvas(1000, 500).parent(canvasParentRef);
 
     this.values = new Array(p5.floor(p5.width / w));
-    this.valueArrays = window.valueArray
+    this.valueArrays = window.valueArrays
     this.states = [];
     for (let i = 0; i < this.values.length; i++) {
       this.values[i] = p5.random(p5.height);
