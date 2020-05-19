@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dhwanitsharma/SortingAlgorithmVisualizer/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dhwanitsharma/SortingAlgorithmVisualizer/static/js/main.5d55d17d.chunk.js",
+    "main.js.map": "/dhwanitsharma/SortingAlgorithmVisualizer/static/js/main.5d55d17d.chunk.js.map",
+    "runtime-main.js": "/dhwanitsharma/SortingAlgorithmVisualizer/static/js/runtime-main.c1559abd.js",
+    "runtime-main.js.map": "/dhwanitsharma/SortingAlgorithmVisualizer/static/js/runtime-main.c1559abd.js.map",
+    "static/css/2.de424728.chunk.css": "/dhwanitsharma/SortingAlgorithmVisualizer/static/css/2.de424728.chunk.css",
+    "static/js/2.657a1927.chunk.js": "/dhwanitsharma/SortingAlgorithmVisualizer/static/js/2.657a1927.chunk.js",
+    "static/js/2.657a1927.chunk.js.map": "/dhwanitsharma/SortingAlgorithmVisualizer/static/js/2.657a1927.chunk.js.map",
+    "index.html": "/dhwanitsharma/SortingAlgorithmVisualizer/index.html",
+    "precache-manifest.b15991a2d91339a9de60a1de4cc5d59a.js": "/dhwanitsharma/SortingAlgorithmVisualizer/precache-manifest.b15991a2d91339a9de60a1de4cc5d59a.js",
+    "service-worker.js": "/dhwanitsharma/SortingAlgorithmVisualizer/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/dhwanitsharma/SortingAlgorithmVisualizer/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/dhwanitsharma/SortingAlgorithmVisualizer/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.657a1927.chunk.js.LICENSE.txt": "/dhwanitsharma/SortingAlgorithmVisualizer/static/js/2.657a1927.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1559abd.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.657a1927.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5d55d17d.chunk.js"
+  ]
+}
